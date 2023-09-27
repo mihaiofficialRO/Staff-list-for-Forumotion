@@ -6,7 +6,7 @@ Go to:<br>
 ACP > Modules > HTML & Javascript -> HTML pages management > Create in advanced mode (HTML)<br><br>
 Title: Staff list<br>
 Code: https://github.com/mihaiofficialRO/Staff-list-for-Forumotion/blob/master/script.html<br>
-Do you wish to use your forum header and footer ?: No
+Do you wish to use your forum header and footer ?: No<br>
 Use this page as homepage ?: No
 
 <h1>Documentation</h1>
